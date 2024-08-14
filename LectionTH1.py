@@ -38,4 +38,18 @@ for x in [1, 2, 3, 4, 5, 6]:
 # range(1,10,1)
 #Continue - позволяет срезать "дистанцию" и начать сначала
 
+# Системы счисления
+base = 10
+x = int(input())
+while x > 0:
+    digit = x % base # взять последнюю цифру числа
+    print(digit, end="")
+    x //= base #зачеркнуть последнюю цифру числа
 
+
+max_ = []
+x, m = map(int, input().split())
+if x > m:
+    m = x
+max_.append(m)
+print(max_)
