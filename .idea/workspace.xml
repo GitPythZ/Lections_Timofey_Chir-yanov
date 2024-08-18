@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6f24ba7-fa63-4154-a515-9b3c05c5d829" name="Changes" comment="Первая лекция по алгоритмам в Питон">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f6f24ba7-fa63-4154-a515-9b3c05c5d829" name="Changes" comment="Cbcntvf cxbcktybz">
+      <change afterPath="$PROJECT_DIR$/LectionTN5_massive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectionTH1.py" beforeDir="false" afterPath="$PROJECT_DIR$/LectionTH1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +46,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.LectionTH1.executor": "Debug",
+    "Python.LectionTH1.executor": "Run",
+    "Python.LectionTN5_massive.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -85,11 +92,20 @@
       <option name="project" value="LOCAL" />
       <updated>1723628075469</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Cbcntvf cxbcktybz">
+      <option name="closed" value="true" />
+      <created>1723628961490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723628961490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первая лекция по алгоритмам в Питон" />
-    <option name="LAST_COMMIT_MESSAGE" value="Первая лекция по алгоритмам в Питон" />
+    <MESSAGE value="Cbcntvf cxbcktybz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cbcntvf cxbcktybz" />
   </component>
 </project>
