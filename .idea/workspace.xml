@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6f24ba7-fa63-4154-a515-9b3c05c5d829" name="Changes" comment="Cbcntvf cxbcktybz">
-      <change afterPath="$PROJECT_DIR$/LectionTN5_massive.py" afterDir="false" />
+    <list default="true" id="f6f24ba7-fa63-4154-a515-9b3c05c5d829" name="Changes" comment="Решето Эратосфена">
+      <change afterPath="$PROJECT_DIR$/LectionTH6_list_sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LectionTH7_recusrion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Лекции Тимофей Хирьянов.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Лекции Тимофей Хирьянов.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +49,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.LectionTH1.executor": "Run",
+    "Python.LectionTH6_list_sorted.executor": "Run",
+    "Python.LectionTH7_recusrion.executor": "Run",
     "Python.LectionTN5_massive.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -100,12 +105,37 @@
       <option name="project" value="LOCAL" />
       <updated>1723628961490</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Решето Эратосфена">
+      <option name="closed" value="true" />
+      <created>1723994915923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723994915923</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первая лекция по алгоритмам в Питон" />
     <MESSAGE value="Cbcntvf cxbcktybz" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cbcntvf cxbcktybz" />
+    <MESSAGE value="Решето Эратосфена" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решето Эратосфена" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LectionTH6_list_sorted.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LectionTH7_recusrion.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
